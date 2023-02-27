@@ -1,7 +1,7 @@
 画像をコピペ
 
 # compornent（共通部品）
-- 説明
+- jQuery（ドロワーメニューボタン、高さはpadding-topで確保）
 
 # w3c html/css ck
 - confirmed
